@@ -13,4 +13,4 @@ python 的写法可能比逻辑本身更重要，同样的逻辑，但是如图�
 C++、java 等也有类似问题，但是不明显，近乎可以忽略。
 
 ## 整理知识点大概如下（思维导图工具:XMind）
-![all](https://github.com/wangyr45/Algorithm-and-data-structure/blob/master/images/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.png)
+![image](https://github.com/wangyr45/Algorithm-and-data-structure/blob/master/images/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.png)
